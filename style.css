@@ -2,13 +2,8 @@ body {
   margin: 0;
 }
 
-.page__header {
+.my-nav-background-color {
   background-color: mediumseagreen;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 5;
-  height: 10vh;
 }
 
 .navbar__menu {
