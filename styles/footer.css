@@ -1,0 +1,8 @@
+.page__footer {
+  background: #1c1c1c;
+  padding: 30px;
+}
+
+.page__footer p {
+  color: lightgray;
+}
