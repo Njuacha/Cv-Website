@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 59.473309 18"
+   height="18mm"
+   width="59.473309mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect835"
+       height="14.363095"
+       width="30.238096"
+       y="108.85714"
+       x="86.178574" />
+    <filter
+       height="1.0428897"
+       y="-0.021444873"
+       width="1.014076"
+       x="-0.0070380025"
+       id="filter1626"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1628"
+         stdDeviation="0.068754016"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="150.24755"
+     inkscape:cx="167.52551"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-61.508876,-108.41367)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(1.7060828,0,0,1.2529507,-85.012897,-25.763726)"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect835);opacity:0.309;filter:url(#filter1626);"
+       id="text833"
+       xml:space="preserve"><tspan
+         x="86.177734"
+         y="118.51289"><tspan>MIKI</tspan></tspan></text>
+    <path
+       transform="matrix(1.182453,0,0,1.2076905,-31.303712,-19.777621)"
+       inkscape:transform-center-y="-0.66513738"
+       inkscape:transform-center-x="-0.26539653"
+       d="m 115.6607,120.19642 1.37379,-5.15648 -3.46896,-4.05499 5.32863,-0.28689 2.78456,-4.55225 1.91948,4.97918 5.18992,1.24155 -4.14233,3.36419 0.42299,5.31956 -4.47958,-2.89999 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.9179449"
+       sodipodi:arg1="2.2896263"
+       sodipodi:r2="4.017942"
+       sodipodi:r1="8.0358839"
+       sodipodi:cy="114.1488"
+       sodipodi:cx="120.95237"
+       sodipodi:sides="5"
+       id="path841"
+       style="opacity:0.957377;fill:#ff9f55;fill-opacity:1;stroke-width:0.264999"
+       sodipodi:type="star" />
+  </g>
+</svg>

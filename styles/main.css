@@ -155,6 +155,7 @@
   background-color: white;
   position: relative;
   border-radius: 6px;
+  overflow-wrap: break-word;
 }
 
 .title {
@@ -279,6 +280,10 @@
     padding: 1.2rem;;
   }
 
+  .nav-link {
+    color: white !important;
+  }
+
 }
 
 @media (max-width: 576px) {
@@ -294,6 +299,10 @@
      font-size: 2em;
      padding: .7rem;;
    }
+
+   #home {
+     height: 50vh;
+   }
 }
 
 .my_video {
@@ -301,10 +310,24 @@
   justify-content: center;
 }
 
+.audio_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px
+}
+
 
 section {
     position: relative;
     min-height: 80vh;
+}
+
+
+
+#about {
+  min-height: 90vh;
 }
 
 .section-headings {
